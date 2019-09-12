@@ -1,1 +1,1 @@
-This is an e-commerce site built with React, GraphQL and Firebase.  
+This is an e-commerce site built with React, Redux, GraphQL and Firebase.  It also uses Stripe as a payment platform.
